@@ -6,7 +6,7 @@
 - ..
 - 📫 How to reach me 
 - 😄 Pronouns: fuckit
-- ⚡ Fun fact: no woke
+- ⚡ Fun fact: french
 
 <!---
 Maatt0213/Maatt0213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
