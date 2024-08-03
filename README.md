@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Maatt0213
 - 👀 I’m interested in FZ Pwnagotchi and tools
 - 🌱 I’m currently learning How to use flipper zero..
-- 💞️ I’m looking to collaborate on a way to enhance the FZ FREQUENCY ANALYZER
--                               by adding a direct shortcut to the RAW CAPTURE (from the freq analyzerr captured freq)                         
-- ..
+- 💞️ I’m looking to collaborate on a way to find my way
 - 📫 How to reach me 
 - 😄 Pronouns: fuckit
 - ⚡ Fun fact: french
